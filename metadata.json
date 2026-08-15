@@ -1,0 +1,6 @@
+{
+  "name": "JEE Master Tracker & AI Doubt Engine",
+  "description": "Complete JEE Main & Advanced 72-chapter preparation matrix with real-time score predictor, AI doubt solver, image question parser, test timer, and personalized study strategy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
